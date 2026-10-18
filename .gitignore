@@ -1,0 +1,12 @@
+node_modules/
+.vercel/
+.tanstack/
+.node_modules.lock
+.grok/
+AGENTS.md
+.DS_Store
+*.log
+roadster-refs/
+screenshots/
+artifacts/
+public/lunar-roadster-source.zip
